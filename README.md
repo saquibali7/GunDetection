@@ -1,5 +1,6 @@
 # GunDetection
-Gun Detection in images using the pretrained using yolo v5 model
+
+## Gun Detection in images using the pretrained using yolo v5 model
 
 ## Results on the validation set
 
